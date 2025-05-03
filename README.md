@@ -9,11 +9,11 @@ Tetris In Python
 
 ![Game Screenshot](https://github.com/rickroll747/Pytris/blob/master/Screenshots/1.1/Screenshot%202025-05-03%20160753.png)
 ## 1.0
-![Game Screenshot](https://github.com/rickroll747/Pytris/blob/master/Screenshots/Screenshot%202024-12-29%20150259.png)
+![Game Screenshot](https://github.com/rickroll747/Pytris/blob/master/Screenshots/1.0/Screenshot%202024-12-29%20150259.png)
 
-![Game Screenshot](https://github.com/rickroll747/Pytris/blob/master/Screenshots/Screenshot%202024-12-29%20150737.png)
+![Game Screenshot](https://github.com/rickroll747/Pytris/blob/master/Screenshots/1.0/Screenshot%202024-12-29%20150737.png)
 
-![Game Screenshot](https://github.com/rickroll747/Pytris/blob/master/Screenshots/Screenshot_2024-12-29150141.png)
+![Game Screenshot](https://github.com/rickroll747/Pytris/blob/master/Screenshots/1.0/Screenshot_2024-12-29150141.png)
 # How To Install And Play
 # Windows
 1. Download The Zip File And Extract It.
